@@ -1,0 +1,11 @@
+{
+  "label": "Your Training Factory",
+  "site": "http://base_url",
+  "clientID": "training-importer",
+  "clientSecret": "<secret>",
+  "tokenPath": "/oauth2/token",
+  "serviceEndpoint": "/rest/object",
+  "username": "<username>",
+  "password": "<password>",
+  "scope": ["basic"]
+}
